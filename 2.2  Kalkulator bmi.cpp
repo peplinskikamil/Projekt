@@ -14,6 +14,6 @@ int main() {
     if (bmi < 18.5) cout << "Niedowaga\n";
     else if (bmi < 25) cout << "W normie\n";
     else if (bmi < 30) cout << "Nadwaga\n";
-    else cout << "Oty³oœæ\n";
+    else cout << "OtyÅ‚oÅ›Ä‡\n";
 }
 
