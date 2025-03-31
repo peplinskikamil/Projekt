@@ -12,9 +12,9 @@ int main() {
         case 'S': cena = 5 * h; break;
         case 'M': cena = 3 * h; break;
         case 'A': cena = 10 * h; break;
-        default: cout << "B³¹d: z³y typ pojazdu!\n"; return 0;
+        default: cout << "BÅ‚Ä…d: zÅ‚y typ pojazdu!\n"; return 0;
     }
 
-    cout << "Op³ata: " << cena << " z³\n";
+    cout << "OpÅ‚ata: " << cena << " zÅ‚\n";
 }
 
