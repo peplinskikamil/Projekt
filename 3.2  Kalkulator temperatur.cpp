@@ -11,7 +11,7 @@ int main() {
     switch (u) {
         case 'K': cout << "Kelvin: " << c + 273.15 << "\n"; break;
         case 'F': cout << "Fahrenheit: " << (c * 9 / 5) + 32 << "\n"; break;
-        default: cout << "B³¹d: z³a jednostka!\n";
+        default: cout << "BÅ‚Ä…d: zÅ‚a jednostka!\n";
     }
 }
 
