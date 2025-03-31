@@ -13,7 +13,7 @@ int main() {
     else if (op == '*') cout << "Wynik: " << a * b << "\n";
     else if (op == '/') {
         if (b) cout << "Wynik: " << a / b << "\n";
-        else cout << "B³¹d: dzielenie przez zero!\n";
-    } else cout << "B³¹d: nieznana operacja!\n";
+        else cout << "BÅ‚Ä…d: dzielenie przez zero!\n";
+    } else cout << "BÅ‚Ä…d: nieznana operacja!\n";
 }
 
